@@ -1,0 +1,5 @@
+{
+  "name": "SilenceRemover AI",
+  "description": "Automatically detect and remove silence from audio files using AI-powered threshold detection and FFmpeg processing.",
+  "requestFramePermissions": []
+}
